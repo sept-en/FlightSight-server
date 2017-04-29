@@ -1,0 +1,26 @@
+{
+  "name": "flightsight",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sept-en/FlightSight-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sept-en/FlightSight-server/issues"
+  },
+  "homepage": "https://github.com/sept-en/FlightSight-server#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "mongoose": "^4.9.6"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
